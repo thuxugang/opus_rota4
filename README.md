@@ -12,7 +12,7 @@ Python 3.7
 TensorFlow 2.4
 ```
 
-The standalone version of OPUS-Rota4 and the test sets we used can be downloaded directly from [uploading](https://ma-lab.rice.edu/dist/opus-rota4.zip).
+The standalone version of OPUS-Rota4 and the test sets we used can be downloaded directly from [Here](https://ma-lab.rice.edu/dist/opus-rota4.zip).
 
 ## Useful Tools
 
