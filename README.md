@@ -14,6 +14,28 @@ TensorFlow 2.4
 
 The standalone version of OPUS-Rota4 and the test sets we used can be downloaded directly from [Here](https://ma-lab.rice.edu/dist/opus-rota4.zip).
 
+```
+$DOWNLOAD_DIR/                             # Total: ~ 4 GB
+    datasets/                              
+        # af2_bb_data (AlphaFold2 predicted backbones for CASP14(15))
+        # bb_data (Native backbones for CAMEO(60), CASP14(15) and CASPFM(56))
+        # data (Native structures for all datasets)
+        
+    OPUS_RotaNN2_and_RotaCM/
+        RotaCM/
+          # Codes and pre-trained models for OPUS-RotaCM
+        RotaNN2/
+          # Codes and pre-trained models for OPUS_RotaNN2
+          DLPacker_OPUS/
+            # Codes and pre-trained models for DLPacker(OPUS)
+          mkinputs/
+            # Codes for calculating input features
+
+    OPUS-Fold2/
+        # Codes for OPUS-Fold2
+```
+
+
 ## Useful Tools
 
 ### OPUS-RotaNN
