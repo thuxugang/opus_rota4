@@ -107,3 +107,14 @@ Use `run_opus_rota4.py` to generate the results of OPUS-RotaNN2 (\*.rotann2) and
 ## Run OPUS-Fold2
 
 Use `run_opus_fold2.py` to generate the optimized results of OPUS-Rota4 (\*.rota4) and (\*.pdb).
+
+## Reference 
+```bibtex
+@article{xu2021opus2,
+  title={OPUS-Rota4: A Gradient-Based Protein Side-Chain Modeling Framework Assisted by Deep Learning-Based Predictors},
+  author={Xu, Gang and Wang, Qinghua and Ma, Jianpeng},
+  journal={Briefings in Bioinformatics},
+  year={2021},
+  publisher={Oxford University Press}
+}
+```
