@@ -108,6 +108,9 @@ Use `run_opus_rota4.py` to generate the results of OPUS-RotaNN2 (\*.rotann2) and
 
 Use `run_opus_fold2.py` to generate the optimized results of OPUS-Rota4 (\*.rota4) and (\*.pdb).
 
+## Accessibility
+This project is freely available for academic usage.
+
 ## Reference 
 ```bibtex
 @article{xu2021opus2,
